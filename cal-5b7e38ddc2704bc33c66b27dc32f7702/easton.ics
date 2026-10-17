@@ -1,0 +1,712 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//puck-tracker//schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daneault Hockey · Easton
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:785fb0e7f5164912abfb@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261018T000000Z
+DTEND:20261018T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:0e52a213b06110848a75@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261024T010000Z
+DTEND:20261024T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Swift Current Broncos
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d149ff441ef45f5e8dfa@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:36f54a393e509a29987c@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261031T000000Z
+DTEND:20261031T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Brandon Wheat Kings
+LOCATION:Assiniboine Credit Union Place\, Brandon\, MB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/brandon-wheat-kings-tickets/artist/881272?home_away=
+ home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:660cbc38571ed718a1f8@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261101T200000Z
+DTEND:20261101T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Regina Pats
+LOCATION:Brandt Centre\, Regina
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/regina-pats-tickets/artist/881269?home_away=home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b1708f5b5e35de9957@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261105T010000Z
+DTEND:20261105T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d8faf880fe2b9e8b2319@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:84555f88014e0ad49fea@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261111T010000Z
+DTEND:20261111T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:14c161054f3bc2e19988@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:48373aa9f3f2d4145f04@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf636fa07758ea4d30b@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261121T010000Z
+DTEND:20261121T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:de8d1a11f08d297a49dd@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:2a31db977753367e2d8c@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261126T010000Z
+DTEND:20261126T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Brandon Wheat Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:0c52388c207322a7ae18@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261128T010000Z
+DTEND:20261128T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Saskatoon Blades
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0f3fbc36a9df971528@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261129T220000Z
+DTEND:20261130T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:872297fc19326e8df9f3@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Prince George Cougars
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f8529c4fc02cb51fae@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261206T000000Z
+DTEND:20261206T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Moose Jaw Warriors
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7514c66e74482705c6c7@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261209T010000Z
+DTEND:20261209T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Saskatoon Blades
+LOCATION:SaskTel Centre\, Saskatoon\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/saskatoon-blades-vs-lethbridge-hurricanes-saskatoon-
+ saskatchewan-12-08-2026/event/11006514D7A25FA1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:20986e7f09f93b4107a6@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261210T010000Z
+DTEND:20261210T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Prince Albert Raiders
+LOCATION:Art Hauser Centre\, Prince Albert
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /sasktix.evenue.net/events/PA
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f887bbbe547c697298fe@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261212T010000Z
+DTEND:20261212T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Swift Current Broncos
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f83307d81d98a5b27453@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261213T010000Z
+DTEND:20261213T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:6763f6a5f67c5510f84b@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261217T010000Z
+DTEND:20261217T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Swift Current Broncos
+LOCATION:InnovationPlex\, Swift Current
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.scbroncos.com/?upcoming_games=1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:efbf13f0a6a1d3255b58@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Kamloops Blazers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:1bacb04015a63f1d66fb@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261227T200000Z
+DTEND:20261227T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:76720338656a25588e52@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261230T010000Z
+DTEND:20261230T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:ea9ba0a68e0b3c1cd938@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20261231T010000Z
+DTEND:20261231T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d988c2a57dd157f853f1@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270103T000000Z
+DTEND:20270103T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:31d87751d8be40446268@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270107T010000Z
+DTEND:20270107T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Moose Jaw Warriors
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7407492ed589042a7308@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270109T010000Z
+DTEND:20270109T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:76415593b29534f640cd@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Portland Winterhawks
+LOCATION:Veterans Memorial Coliseum\, Portland
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 9:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.com/portland-winterhawks-portland-oregon-01-13-2027/eve
+ nt/0F0064FB987C71AE
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:27ed8c6985d057ce499c@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270116T030500Z
+DTEND:20270116T053500Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Seattle Thunderbirds
+LOCATION:accesso ShoWare Center\, Kent
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 9:05 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.seattlethunderbirds.com
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:69bd3a71daf9c70d6a5c@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270117T020500Z
+DTEND:20270117T043500Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Everett Silvertips
+LOCATION:Angel of the Winds Arena\, Everett\, WA
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 8:05 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /everettsilvertips.3dcartstores.com/SATURDAY-FAN-PACK-DISCOUNT-_p_2759.ht
+ ml
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a2982a1f0b6c6ad963f3@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270123T010000Z
+DTEND:20270123T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Kelowna Rockets
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd0a2828ecc1da72092@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270128T010000Z
+DTEND:20270128T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Brandon Wheat Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:53d69ff441eb0c885a6c@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Regina Pats
+LOCATION:Brandt Centre\, Regina
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/regina-pats-tickets/artist/881269?home_away=home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:681d427f6d0ec55ff9de@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270131T220000Z
+DTEND:20270201T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Saskatoon Blades
+LOCATION:SaskTel Centre\, Saskatoon\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/saskatoon-blades-vs-lethbridge-hurricanes-saskatoon-
+ saskatchewan-01-31-2027/event/11006514D7335E6A
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f05d93990c1ab10812@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270203T010000Z
+DTEND:20270203T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Moose Jaw Warriors
+LOCATION:Temple Gardens Centre\, Moose Jaw\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /chl.ca/whl-warriors/single-game-tickets/
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a833c30391ac590c2b@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270206T010000Z
+DTEND:20270206T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Regina Pats
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c0a7a2dfc8338ce5ac@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270207T000000Z
+DTEND:20270207T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:36782242a1fcec9cef37@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Saskatoon Blades
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:2173150e9177a4067933@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:9689968e58384eb93e75@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270215T200000Z
+DTEND:20270215T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:05c3468b987e7396b5f2@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270220T010000Z
+DTEND:20270220T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Penticton Vees
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bcc94142f12c5eaff5@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270221T000000Z
+DTEND:20270221T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Swift Current Broncos
+LOCATION:InnovationPlex\, Swift Current
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.scbroncos.com/?upcoming_games=1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5c426cae1bf49bcb78@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270225T010000Z
+DTEND:20270225T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e0956ccd8dcab54de720@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270228T210000Z
+DTEND:20270228T233000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Vancouver Giants
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 3:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8b1e7f7a6c4964284a@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270304T000000Z
+DTEND:20270304T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Brandon Wheat Kings
+LOCATION:Assiniboine Credit Union Place\, Brandon\, MB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/brandon-wheat-kings-tickets/artist/881272?home_away=
+ home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa060396d398766fdf2@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270306T010000Z
+DTEND:20270306T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Prince Albert Raiders
+LOCATION:Art Hauser Centre\, Prince Albert
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /sasktix.evenue.net/events/PA
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdff202276bb1116b4b@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270307T000000Z
+DTEND:20270307T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Moose Jaw Warriors
+LOCATION:Temple Gardens Centre\, Moose Jaw\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /chl.ca/whl-warriors/single-game-tickets/
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:697442be5add8f477444@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Regina Pats
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f467e68811cbfddc8a85@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270313T010000Z
+DTEND:20270313T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Prince Albert Raiders
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7fead682dcbba29541@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270317T010000Z
+DTEND:20270317T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:3c042be8d5e357ba7602@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270318T010000Z
+DTEND:20270318T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:02b4e7e214be559e8aa5@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270320T010000Z
+DTEND:20270320T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:de87aaaea64e236f0c6a@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e69657881d5a52a33e2e@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270325T010000Z
+DTEND:20270325T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:268864f97e4fe0afe6df@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270328T000000Z
+DTEND:20270328T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a70c98eaaf55af665b0b@puck-tracker
+DTSTAMP:20261017T135737Z
+DTSTART:20270328T220000Z
+DTEND:20270329T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+END:VCALENDAR
