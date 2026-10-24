@@ -1,0 +1,1509 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//puck-tracker//schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daneault Hockey
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c53826c79974ee40c6b5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261024T200000Z
+DTEND:20261024T223000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Buffaloes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274603
+URL:https://www.flohockey.tv/live/274603
+END:VEVENT
+BEGIN:VEVENT
+UID:108886b37e5cbe6b5a9e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261025T224500Z
+DTEND:20261026T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Airdrie Bisons
+LOCATION:Ron Ebbesen Twin Arena Blue\, Airdrie
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274646
+URL:https://www.flohockey.tv/live/274646
+END:VEVENT
+BEGIN:VEVENT
+UID:9977f44cbff5c7512e85@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:Madden (Team Canada White) @ United States – Pre-tournament
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 5:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:3204cc18adf4f8005364@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261031T224500Z
+DTEND:20261101T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lethbridge Hurricanes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274703\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274703
+END:VEVENT
+BEGIN:VEVENT
+UID:bf125def0b783eb7522a@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261101T191500Z
+DTEND:20261101T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lethbridge Hurricanes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274752\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274752
+END:VEVENT
+BEGIN:VEVENT
+UID:1cebf962183a822d9e34@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261101T203000Z
+DTEND:20261101T230000Z
+SUMMARY:Madden (Team Canada White) vs Czechia – Preliminary
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 2:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:df3b06f7250948fabbae@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261104T003000Z
+DTEND:20261104T030000Z
+SUMMARY:Madden (Team Canada White) @ Sweden – Preliminary
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 6:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:10dc27fcb077dcdeabbc@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Madden (Team Canada White) · TBD – Quarterfinal
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nIf 2nd/3rd in Group B · 3:30 or 7:30 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c718169081f91654f16@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T020000Z
+DTEND:20261107T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Northstars
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274775\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274775
+END:VEVENT
+BEGIN:VEVENT
+UID:3ecb80863aa39bbe5936@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Madden (Team Canada White) · TBD – Semifinal
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nIf they advance · 3:30 or 7:30 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1aa957a6408979048f7@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T231500Z
+DTEND:20261108T014500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ LJAC Wilhauk Beef Jerky Oil Ki
+ ngs
+LOCATION:Aspen Arena (LRC)\, Leduc
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 5:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274811\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274811
+END:VEVENT
+BEGIN:VEVENT
+UID:842b6ddfbc53a9408256@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Madden (Team Canada White) · TBD – Medal / placement game
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nGold 7:30 PM ET · Bronze 3:30 PM ET · 5th 12:00 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afbd191058480788d0b9@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261114T020000Z
+DTEND:20261114T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary United Pacific Projec
+ ts (NW) Flames
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274884
+URL:https://www.flohockey.tv/live/274884
+END:VEVENT
+BEGIN:VEVENT
+UID:996dde20da74efd16160@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261115T191500Z
+DTEND:20261115T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Edmonton Jr. Oilers Orange
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274940
+URL:https://www.flohockey.tv/live/274940
+END:VEVENT
+BEGIN:VEVENT
+UID:aa6c1f182536f2c068bc@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261121T020000Z
+DTEND:20261121T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs PAC ATB Wealth Saints
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274962
+URL:https://www.flohockey.tv/live/274962
+END:VEVENT
+BEGIN:VEVENT
+UID:f17c766cfe942f1ccc57@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261122T220000Z
+DTEND:20261123T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275034
+URL:https://www.flohockey.tv/live/275034
+END:VEVENT
+BEGIN:VEVENT
+UID:6358232bb4c25cf85506@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261128T210000Z
+DTEND:20261128T233000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Royals
+LOCATION:Stu Peppard\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 3:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275086
+URL:https://www.flohockey.tv/live/275086
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6bb3df6e0a7d815c72@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261129T194500Z
+DTEND:20261129T221500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275124
+URL:https://www.flohockey.tv/live/275124
+END:VEVENT
+BEGIN:VEVENT
+UID:0e078c3659ceee566ea5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261205T004500Z
+DTEND:20261205T031500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Northstars
+LOCATION:Max Bell - Bracko\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 6:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275148
+URL:https://www.flohockey.tv/live/275148
+END:VEVENT
+BEGIN:VEVENT
+UID:0431f53aae36086a0cf5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261206T220000Z
+DTEND:20261207T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275215
+URL:https://www.flohockey.tv/live/275215
+END:VEVENT
+BEGIN:VEVENT
+UID:fcf2321827f4042e8017@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261212T020000Z
+DTEND:20261212T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275248
+URL:https://www.flohockey.tv/live/275248
+END:VEVENT
+BEGIN:VEVENT
+UID:973ce751f3d46fcdf30e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261213T191500Z
+DTEND:20261213T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lloydminster Lancers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275318
+URL:https://www.flohockey.tv/live/275318
+END:VEVENT
+BEGIN:VEVENT
+UID:fc6a84dd96648a57e8a1@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261216T234500Z
+DTEND:20261217T021500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary United Pacific Project
+ s (NW) Flames
+LOCATION:Father Bauer\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 5:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275336
+URL:https://www.flohockey.tv/live/275336
+END:VEVENT
+BEGIN:VEVENT
+UID:a53a8ea82444c86635de@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261220T003000Z
+DTEND:20261220T030000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 6:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275376
+URL:https://www.flohockey.tv/live/275376
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac6fb8a71dc7472e876@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270103T020000Z
+DTEND:20270103T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Airdrie Bisons
+LOCATION:Ron Ebbesen Twin Arena Blue\, Airdrie
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275451
+URL:https://www.flohockey.tv/live/275451
+END:VEVENT
+BEGIN:VEVENT
+UID:f2527acad29877e3a07f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270103T194500Z
+DTEND:20270103T221500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275493
+URL:https://www.flohockey.tv/live/275493
+END:VEVENT
+BEGIN:VEVENT
+UID:2479e192c97d61914631@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T020000Z
+DTEND:20270109T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Edmonton Jr. Oilers Blue
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275523
+URL:https://www.flohockey.tv/live/275523
+END:VEVENT
+BEGIN:VEVENT
+UID:ec16f9522d56f34c5496@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T224500Z
+DTEND:20270110T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Fort Sask U18AAA Enhance It R
+ angers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275553
+URL:https://www.flohockey.tv/live/275553
+END:VEVENT
+BEGIN:VEVENT
+UID:c2760cd7a897822193b2@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270116T223000Z
+DTEND:20270117T010000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Royals
+LOCATION:Stu Peppard\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275624
+URL:https://www.flohockey.tv/live/275624
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6343389359b8d6071f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270117T220000Z
+DTEND:20270118T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275665
+URL:https://www.flohockey.tv/live/275665
+END:VEVENT
+BEGIN:VEVENT
+UID:064e67520a02a53b8cbd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T020000Z
+DTEND:20270123T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275689
+URL:https://www.flohockey.tv/live/275689
+END:VEVENT
+BEGIN:VEVENT
+UID:4e33bbb6f81ca22b4bbd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T200000Z
+DTEND:20270123T223000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Buffaloes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275719
+URL:https://www.flohockey.tv/live/275719
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d9b9a04595d5b15211@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270130T020000Z
+DTEND:20270130T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary United Pacific Projec
+ ts (NW) Flames
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275793
+URL:https://www.flohockey.tv/live/275793
+END:VEVENT
+BEGIN:VEVENT
+UID:7814a9decd212dca3e1b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270131T010000Z
+DTEND:20270131T033000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Northstars
+LOCATION:Max Bell - Bracko\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 7:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275832
+URL:https://www.flohockey.tv/live/275832
+END:VEVENT
+BEGIN:VEVENT
+UID:7acd1c54fe04a107395c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270206T221500Z
+DTEND:20270207T004500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Lethbridge Hurricanes
+LOCATION:Nicholas Sheran Arena\, Lethbridge
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275942
+URL:https://www.flohockey.tv/live/275942
+END:VEVENT
+BEGIN:VEVENT
+UID:ca05e5cbce7d5bf1b5b6@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270207T204500Z
+DTEND:20270207T231500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Lethbridge Hurricanes
+LOCATION:Nicholas Sheran Arena\, Lethbridge
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275982
+URL:https://www.flohockey.tv/live/275982
+END:VEVENT
+BEGIN:VEVENT
+UID:6df2622a6bdb6f9547ed@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T020000Z
+DTEND:20270213T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276007
+URL:https://www.flohockey.tv/live/276007
+END:VEVENT
+BEGIN:VEVENT
+UID:a3bb5c8d0bebbaa65f2e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T224500Z
+DTEND:20270214T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Okotoks Bow Mark Oilers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276034
+URL:https://www.flohockey.tv/live/276034
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f0ca25967e96614326@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T013000Z
+DTEND:20270221T040000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ SPKAC Ennis Kings
+LOCATION:Randy Rosen Rink\, Sherwood Park
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 7:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276132
+URL:https://www.flohockey.tv/live/276132
+END:VEVENT
+BEGIN:VEVENT
+UID:b4400797d2dce92c5f87@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T214500Z
+DTEND:20270222T001500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Royals
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 3:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276176
+URL:https://www.flohockey.tv/live/276176
+END:VEVENT
+BEGIN:VEVENT
+UID:d149ff441ef45f5e8dfa@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/watch?v=i5CryELZXf0\nTickets: 
+ https://ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/watch?v=i5CryELZXf0
+END:VEVENT
+BEGIN:VEVENT
+UID:36f54a393e509a29987c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261031T000000Z
+DTEND:20261031T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Brandon Wheat Kings
+LOCATION:Assiniboine Credit Union Place\, Brandon\, MB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/brandon-wheat-kings-tickets/artist/881272?home_away=
+ home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:660cbc38571ed718a1f8@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261101T200000Z
+DTEND:20261101T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Regina Pats
+LOCATION:Brandt Centre\, Regina
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/regina-pats-tickets/artist/881269?home_away=home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b1708f5b5e35de9957@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261105T010000Z
+DTEND:20261105T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d8faf880fe2b9e8b2319@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:84555f88014e0ad49fea@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261111T010000Z
+DTEND:20261111T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:14c161054f3bc2e19988@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:48373aa9f3f2d4145f04@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf636fa07758ea4d30b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261121T010000Z
+DTEND:20261121T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:de8d1a11f08d297a49dd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:2a31db977753367e2d8c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261126T010000Z
+DTEND:20261126T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Brandon Wheat Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:0c52388c207322a7ae18@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261128T010000Z
+DTEND:20261128T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Saskatoon Blades
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0f3fbc36a9df971528@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261129T220000Z
+DTEND:20261130T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:872297fc19326e8df9f3@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Prince George Cougars
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f8529c4fc02cb51fae@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261206T000000Z
+DTEND:20261206T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Moose Jaw Warriors
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7514c66e74482705c6c7@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261209T010000Z
+DTEND:20261209T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Saskatoon Blades
+LOCATION:SaskTel Centre\, Saskatoon\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/saskatoon-blades-vs-lethbridge-hurricanes-saskatoon-
+ saskatchewan-12-08-2026/event/11006514D7A25FA1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:20986e7f09f93b4107a6@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261210T010000Z
+DTEND:20261210T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Prince Albert Raiders
+LOCATION:Art Hauser Centre\, Prince Albert
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /sasktix.evenue.net/events/PA
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f887bbbe547c697298fe@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261212T010000Z
+DTEND:20261212T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Swift Current Broncos
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f83307d81d98a5b27453@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261213T010000Z
+DTEND:20261213T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:6763f6a5f67c5510f84b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261217T010000Z
+DTEND:20261217T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Swift Current Broncos
+LOCATION:InnovationPlex\, Swift Current
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.scbroncos.com/?upcoming_games=1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:efbf13f0a6a1d3255b58@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Kamloops Blazers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:1bacb04015a63f1d66fb@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261227T200000Z
+DTEND:20261227T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:76720338656a25588e52@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261230T010000Z
+DTEND:20261230T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:ea9ba0a68e0b3c1cd938@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261231T010000Z
+DTEND:20261231T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d988c2a57dd157f853f1@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270103T000000Z
+DTEND:20270103T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:31d87751d8be40446268@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270107T010000Z
+DTEND:20270107T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Moose Jaw Warriors
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7407492ed589042a7308@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T010000Z
+DTEND:20270109T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:76415593b29534f640cd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Portland Winterhawks
+LOCATION:Veterans Memorial Coliseum\, Portland
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 9:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.com/portland-winterhawks-portland-oregon-01-13-2027/eve
+ nt/0F0064FB987C71AE
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:27ed8c6985d057ce499c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270116T030500Z
+DTEND:20270116T053500Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Seattle Thunderbirds
+LOCATION:accesso ShoWare Center\, Kent
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 9:05 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.seattlethunderbirds.com
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:69bd3a71daf9c70d6a5c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270117T020500Z
+DTEND:20270117T043500Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Everett Silvertips
+LOCATION:Angel of the Winds Arena\, Everett\, WA
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 8:05 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /everettsilvertips.3dcartstores.com/SATURDAY-FAN-PACK-DISCOUNT-_p_2759.ht
+ ml
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a2982a1f0b6c6ad963f3@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T010000Z
+DTEND:20270123T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Kelowna Rockets
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd0a2828ecc1da72092@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270128T010000Z
+DTEND:20270128T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Brandon Wheat Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:53d69ff441eb0c885a6c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Regina Pats
+LOCATION:Brandt Centre\, Regina
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/regina-pats-tickets/artist/881269?home_away=home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:681d427f6d0ec55ff9de@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270131T220000Z
+DTEND:20270201T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Saskatoon Blades
+LOCATION:SaskTel Centre\, Saskatoon\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/saskatoon-blades-vs-lethbridge-hurricanes-saskatoon-
+ saskatchewan-01-31-2027/event/11006514D7335E6A
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f05d93990c1ab10812@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270203T010000Z
+DTEND:20270203T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Moose Jaw Warriors
+LOCATION:Temple Gardens Centre\, Moose Jaw\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /chl.ca/whl-warriors/single-game-tickets/
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a833c30391ac590c2b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270206T010000Z
+DTEND:20270206T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Regina Pats
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c0a7a2dfc8338ce5ac@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270207T000000Z
+DTEND:20270207T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Calgary Hitmen
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:36782242a1fcec9cef37@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Saskatoon Blades
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:2173150e9177a4067933@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:9689968e58384eb93e75@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270215T200000Z
+DTEND:20270215T223000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 2:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:05c3468b987e7396b5f2@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270220T010000Z
+DTEND:20270220T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Penticton Vees
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bcc94142f12c5eaff5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T000000Z
+DTEND:20270221T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Swift Current Broncos
+LOCATION:InnovationPlex\, Swift Current
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /tickets.scbroncos.com/?upcoming_games=1
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5c426cae1bf49bcb78@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270225T010000Z
+DTEND:20270225T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e0956ccd8dcab54de720@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270228T210000Z
+DTEND:20270228T233000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Vancouver Giants
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 3:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8b1e7f7a6c4964284a@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270304T000000Z
+DTEND:20270304T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Brandon Wheat Kings
+LOCATION:Assiniboine Credit Union Place\, Brandon\, MB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/brandon-wheat-kings-tickets/artist/881272?home_away=
+ home
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa060396d398766fdf2@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270306T010000Z
+DTEND:20270306T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Prince Albert Raiders
+LOCATION:Art Hauser Centre\, Prince Albert
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /sasktix.evenue.net/events/PA
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdff202276bb1116b4b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270307T000000Z
+DTEND:20270307T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Moose Jaw Warriors
+LOCATION:Temple Gardens Centre\, Moose Jaw\, SK
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /chl.ca/whl-warriors/single-game-tickets/
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:697442be5add8f477444@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Regina Pats
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:f467e68811cbfddc8a85@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270313T010000Z
+DTEND:20270313T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Prince Albert Raiders
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7fead682dcbba29541@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270317T010000Z
+DTEND:20270317T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Red Deer Rebels
+LOCATION:Marchant Crane Centrium\, Red Deer
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /ticketsalberta.evenue.net/events/RI
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:3c042be8d5e357ba7602@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270318T010000Z
+DTEND:20270318T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Edmonton Oil Kings
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/artist/1150973?venueid=140602
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:02b4e7e214be559e8aa5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270320T010000Z
+DTEND:20270320T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Edmonton Oil Kings
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:de87aaaea64e236f0c6a@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Calgary Hitmen
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /www.ticketmaster.ca/calgary-hitmen-tickets/artist/833512
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:e69657881d5a52a33e2e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270325T010000Z
+DTEND:20270325T033000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Red Deer Rebels
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 7:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:268864f97e4fe0afe6df@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270328T000000Z
+DTEND:20270328T023000Z
+SUMMARY:Easton (Lethbridge Hurricanes) vs Medicine Hat Tigers
+LOCATION:VisitLethbridge.com Arena\, Lethbridge
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 6:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /visitlethbridgearena.evenue.net/events/HS
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:a70c98eaaf55af665b0b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270328T220000Z
+DTEND:20270329T003000Z
+SUMMARY:Easton (Lethbridge Hurricanes) @ Medicine Hat Tigers
+LOCATION:Co-op Place\, Medicine Hat\, AB
+DESCRIPTION:Lethbridge Hurricanes – WHL\nTime (Calgary): 4:00 PM MT\nWat
+ ch: WHL on YouTube https://www.youtube.com/@WHL/streams\nTickets: https:/
+ /buy.tixx.ca/eventperformances.asp?evt=1727
+URL:https://www.youtube.com/@WHL/streams
+END:VEVENT
+BEGIN:VEVENT
+UID:fe95d5f4fa0eb8175aac@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261024T210000Z
+DTEND:20261024T233000Z
+SUMMARY:Ty (Merrimack College) @ University of Notre Dame
+LOCATION:South Bend\, Ind.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 3:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd8ebec5763b1bb85c1@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261030T230000Z
+DTEND:20261031T013000Z
+SUMMARY:Ty (Merrimack College) vs University of Connecticut
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 5:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ed0803dfd8a10063fe@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261031T203000Z
+DTEND:20261031T230000Z
+SUMMARY:Ty (Merrimack College) vs University of Connecticut
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 2:30 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:12239c55463171c4346d@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
+SUMMARY:Ty (Merrimack College) vs College of the Holy Cross
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:db29924fc9fd4aefe712@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261114T000000Z
+DTEND:20261114T023000Z
+SUMMARY:Ty (Merrimack College) @ Providence College
+LOCATION:Providence\, RI
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a95b03c1a499f36474@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Ty (Merrimack College) vs Providence College
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:4144ea13ed86ab1ccf7a@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261121T000000Z
+DTEND:20261121T023000Z
+SUMMARY:Ty (Merrimack College) vs Boston University
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:1b262e8cd28eedc65599@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261121T230000Z
+DTEND:20261122T013000Z
+SUMMARY:Ty (Merrimack College) @ Boston University
+LOCATION:Boston\, MA
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 5:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:aa71af676ca337e5b8b2@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261205T230000Z
+DTEND:20261206T013000Z
+SUMMARY:Ty (Merrimack College) vs Brown University
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 5:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:eba9aa952f737dda21e3@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261212T000000Z
+DTEND:20261212T023000Z
+SUMMARY:Ty (Merrimack College) vs University of Massachusetts
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:7776aa1b8d442ab4147f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
+SUMMARY:Ty (Merrimack College) @ University of Massachusetts
+LOCATION:Amherst\, MA
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:4801a67f7ac97dfffdc6@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270102T200000Z
+DTEND:20270102T223000Z
+SUMMARY:Ty (Merrimack College) @ University of Connecticut
+LOCATION:Storrs\, CT
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 2:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:6540a6076245ee7bee95@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T210000Z
+DTEND:20270109T233000Z
+SUMMARY:Ty (Merrimack College) @ University of New Hampshire
+LOCATION:Durham\, NH
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 3:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:c22eb456408872bdffdd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270116T000000Z
+DTEND:20270116T023000Z
+SUMMARY:Ty (Merrimack College) @ University of Vermont
+LOCATION:Burlington\, VT
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:e7873efe91fe449eb0b8@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270116T220000Z
+DTEND:20270117T003000Z
+SUMMARY:Ty (Merrimack College) @ University of Vermont
+LOCATION:Burlington\, VT
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 4:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:3b93bb664115f6de82e0@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
+SUMMARY:Ty (Merrimack College) vs Northeastern University
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:475dd9fa8ec9ed69256b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T230000Z
+DTEND:20270124T013000Z
+SUMMARY:Ty (Merrimack College) vs Northeastern University
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 5:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:d607c3ef6142b62a0ebf@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270130T000000Z
+DTEND:20270130T023000Z
+SUMMARY:Ty (Merrimack College) @ University of New Hampshire
+LOCATION:Durham\, NH
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:5b3bb2c7aa1e05d817de@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270131T190000Z
+DTEND:20270131T213000Z
+SUMMARY:Ty (Merrimack College) vs Dartmouth College
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 1:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb38706fa143fbf3025@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270206T001500Z
+DTEND:20270206T024500Z
+SUMMARY:Ty (Merrimack College) @ University of Massachusetts Lowell
+LOCATION:Lowell\, MA
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:15 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:11e1c75f543e7b81bfef@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270207T000000Z
+DTEND:20270207T023000Z
+SUMMARY:Ty (Merrimack College) vs University of Massachusetts Lowell
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:110c519cd4b1105b42fc@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:Ty (Merrimack College) vs University of Maine
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:fed65b4b7e64e3d71221@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:Ty (Merrimack College) vs University of Maine
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:d421fa0579c10d6141fd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270220T000000Z
+DTEND:20270220T023000Z
+SUMMARY:Ty (Merrimack College) vs Boston College
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:946255e0b49125788b3f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T000000Z
+DTEND:20270221T023000Z
+SUMMARY:Ty (Merrimack College) @ Boston College
+LOCATION:Chestnut Hill\, MA
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:861c38f08bfdee937fc8@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Ty (Merrimack College) vs University of Vermont
+LOCATION:Lawler Arena\, North Andover\, Mass.
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:00 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:94d7c418ff6d7ab958ae@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270306T001500Z
+DTEND:20270306T024500Z
+SUMMARY:Ty (Merrimack College) @ University of Massachusetts Lowell
+LOCATION:Lowell\, MA
+DESCRIPTION:Merrimack College – NCAA\nTime (Calgary): 6:15 PM MT\nWatch:
+  ESPN+ (paid) https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-
+ 8a5c69f60702/ncaa-men-s-hockey
+URL:https://www.espn.com/watch/catalog/383aeb8b-cbb8-379f-9ef4-8a5c69f6070
+ 2/ncaa-men-s-hockey
+END:VEVENT
+END:VCALENDAR

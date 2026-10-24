@@ -1,0 +1,480 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//puck-tracker//schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daneault Hockey · Madden
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c53826c79974ee40c6b5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261024T200000Z
+DTEND:20261024T223000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Buffaloes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274603
+URL:https://www.flohockey.tv/live/274603
+END:VEVENT
+BEGIN:VEVENT
+UID:108886b37e5cbe6b5a9e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261025T224500Z
+DTEND:20261026T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Airdrie Bisons
+LOCATION:Ron Ebbesen Twin Arena Blue\, Airdrie
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274646
+URL:https://www.flohockey.tv/live/274646
+END:VEVENT
+BEGIN:VEVENT
+UID:9977f44cbff5c7512e85@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:Madden (Team Canada White) @ United States – Pre-tournament
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 5:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:3204cc18adf4f8005364@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261031T224500Z
+DTEND:20261101T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lethbridge Hurricanes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274703\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274703
+END:VEVENT
+BEGIN:VEVENT
+UID:bf125def0b783eb7522a@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261101T191500Z
+DTEND:20261101T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lethbridge Hurricanes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274752\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274752
+END:VEVENT
+BEGIN:VEVENT
+UID:1cebf962183a822d9e34@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261101T203000Z
+DTEND:20261101T230000Z
+SUMMARY:Madden (Team Canada White) vs Czechia – Preliminary
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 2:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:df3b06f7250948fabbae@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261104T003000Z
+DTEND:20261104T030000Z
+SUMMARY:Madden (Team Canada White) @ Sweden – Preliminary
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : 6:30 PM MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/202
+ 6-hc-u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/
+ tickets
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+END:VEVENT
+BEGIN:VEVENT
+UID:10dc27fcb077dcdeabbc@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Madden (Team Canada White) · TBD – Quarterfinal
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nIf 2nd/3rd in Group B · 3:30 or 7:30 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c718169081f91654f16@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T020000Z
+DTEND:20261107T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Northstars
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274775\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274775
+END:VEVENT
+BEGIN:VEVENT
+UID:3ecb80863aa39bbe5936@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Madden (Team Canada White) · TBD – Semifinal
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nIf they advance · 3:30 or 7:30 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1aa957a6408979048f7@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261107T231500Z
+DTEND:20261108T014500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ LJAC Wilhauk Beef Jerky Oil Ki
+ ngs
+LOCATION:Aspen Arena (LRC)\, Leduc
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 5:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274811\nLi
+ kely away with Canada White
+URL:https://www.flohockey.tv/live/274811
+END:VEVENT
+BEGIN:VEVENT
+UID:842b6ddfbc53a9408256@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Madden (Team Canada White) · TBD – Medal / placement game
+LOCATION:Sixteen Mile Sports Complex (Rink 1)\, 3070 Neyagawa Blvd\, Oakvi
+ lle\, ON
+DESCRIPTION:Team Canada White – 2026 U17 World Challenge\nTime (Calgary)
+ : TBA MT\nWatch: HNLive (PPV) (paid) https://video.hnlive.ca/en/c/2026-hc
+ -u17-world-challenge.php\nTickets: https://www.hockeycanada.ca/en-ca/tick
+ ets\nGold 7:30 PM ET · Bronze 3:30 PM ET · 5th 12:00 PM ET
+URL:https://video.hnlive.ca/en/c/2026-hc-u17-world-challenge.php
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afbd191058480788d0b9@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261114T020000Z
+DTEND:20261114T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary United Pacific Projec
+ ts (NW) Flames
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274884
+URL:https://www.flohockey.tv/live/274884
+END:VEVENT
+BEGIN:VEVENT
+UID:996dde20da74efd16160@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261115T191500Z
+DTEND:20261115T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Edmonton Jr. Oilers Orange
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274940
+URL:https://www.flohockey.tv/live/274940
+END:VEVENT
+BEGIN:VEVENT
+UID:aa6c1f182536f2c068bc@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261121T020000Z
+DTEND:20261121T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs PAC ATB Wealth Saints
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/274962
+URL:https://www.flohockey.tv/live/274962
+END:VEVENT
+BEGIN:VEVENT
+UID:f17c766cfe942f1ccc57@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261122T220000Z
+DTEND:20261123T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275034
+URL:https://www.flohockey.tv/live/275034
+END:VEVENT
+BEGIN:VEVENT
+UID:6358232bb4c25cf85506@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261128T210000Z
+DTEND:20261128T233000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Royals
+LOCATION:Stu Peppard\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 3:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275086
+URL:https://www.flohockey.tv/live/275086
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6bb3df6e0a7d815c72@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261129T194500Z
+DTEND:20261129T221500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275124
+URL:https://www.flohockey.tv/live/275124
+END:VEVENT
+BEGIN:VEVENT
+UID:0e078c3659ceee566ea5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261205T004500Z
+DTEND:20261205T031500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Northstars
+LOCATION:Max Bell - Bracko\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 6:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275148
+URL:https://www.flohockey.tv/live/275148
+END:VEVENT
+BEGIN:VEVENT
+UID:0431f53aae36086a0cf5@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261206T220000Z
+DTEND:20261207T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275215
+URL:https://www.flohockey.tv/live/275215
+END:VEVENT
+BEGIN:VEVENT
+UID:fcf2321827f4042e8017@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261212T020000Z
+DTEND:20261212T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275248
+URL:https://www.flohockey.tv/live/275248
+END:VEVENT
+BEGIN:VEVENT
+UID:973ce751f3d46fcdf30e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261213T191500Z
+DTEND:20261213T214500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Lloydminster Lancers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275318
+URL:https://www.flohockey.tv/live/275318
+END:VEVENT
+BEGIN:VEVENT
+UID:fc6a84dd96648a57e8a1@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261216T234500Z
+DTEND:20261217T021500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary United Pacific Project
+ s (NW) Flames
+LOCATION:Father Bauer\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 5:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275336
+URL:https://www.flohockey.tv/live/275336
+END:VEVENT
+BEGIN:VEVENT
+UID:a53a8ea82444c86635de@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20261220T003000Z
+DTEND:20261220T030000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 6:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275376
+URL:https://www.flohockey.tv/live/275376
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac6fb8a71dc7472e876@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270103T020000Z
+DTEND:20270103T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Airdrie Bisons
+LOCATION:Ron Ebbesen Twin Arena Blue\, Airdrie
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275451
+URL:https://www.flohockey.tv/live/275451
+END:VEVENT
+BEGIN:VEVENT
+UID:f2527acad29877e3a07f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270103T194500Z
+DTEND:20270103T221500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Buffaloes
+LOCATION:Cardel Rec South 3\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 1:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275493
+URL:https://www.flohockey.tv/live/275493
+END:VEVENT
+BEGIN:VEVENT
+UID:2479e192c97d61914631@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T020000Z
+DTEND:20270109T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Edmonton Jr. Oilers Blue
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275523
+URL:https://www.flohockey.tv/live/275523
+END:VEVENT
+BEGIN:VEVENT
+UID:ec16f9522d56f34c5496@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270109T224500Z
+DTEND:20270110T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Fort Sask U18AAA Enhance It R
+ angers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275553
+URL:https://www.flohockey.tv/live/275553
+END:VEVENT
+BEGIN:VEVENT
+UID:c2760cd7a897822193b2@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270116T223000Z
+DTEND:20270117T010000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Royals
+LOCATION:Stu Peppard\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275624
+URL:https://www.flohockey.tv/live/275624
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6343389359b8d6071f@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270117T220000Z
+DTEND:20270118T003000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Okotoks Bow Mark Oilers
+LOCATION:Vikings Rentals IPA (Green)\, Okotoks
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275665
+URL:https://www.flohockey.tv/live/275665
+END:VEVENT
+BEGIN:VEVENT
+UID:064e67520a02a53b8cbd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T020000Z
+DTEND:20270123T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275689
+URL:https://www.flohockey.tv/live/275689
+END:VEVENT
+BEGIN:VEVENT
+UID:4e33bbb6f81ca22b4bbd@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270123T200000Z
+DTEND:20270123T223000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Buffaloes
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275719
+URL:https://www.flohockey.tv/live/275719
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d9b9a04595d5b15211@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270130T020000Z
+DTEND:20270130T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary United Pacific Projec
+ ts (NW) Flames
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275793
+URL:https://www.flohockey.tv/live/275793
+END:VEVENT
+BEGIN:VEVENT
+UID:7814a9decd212dca3e1b@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270131T010000Z
+DTEND:20270131T033000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Calgary Northstars
+LOCATION:Max Bell - Bracko\, Calgary
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 7:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275832
+URL:https://www.flohockey.tv/live/275832
+END:VEVENT
+BEGIN:VEVENT
+UID:7acd1c54fe04a107395c@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270206T221500Z
+DTEND:20270207T004500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Lethbridge Hurricanes
+LOCATION:Nicholas Sheran Arena\, Lethbridge
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:1
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275942
+URL:https://www.flohockey.tv/live/275942
+END:VEVENT
+BEGIN:VEVENT
+UID:ca05e5cbce7d5bf1b5b6@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270207T204500Z
+DTEND:20270207T231500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ Lethbridge Hurricanes
+LOCATION:Nicholas Sheran Arena\, Lethbridge
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 2:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/275982
+URL:https://www.flohockey.tv/live/275982
+END:VEVENT
+BEGIN:VEVENT
+UID:6df2622a6bdb6f9547ed@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T020000Z
+DTEND:20270213T043000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Airdrie Bisons
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 8:0
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276007
+URL:https://www.flohockey.tv/live/276007
+END:VEVENT
+BEGIN:VEVENT
+UID:a3bb5c8d0bebbaa65f2e@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270213T224500Z
+DTEND:20270214T011500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Okotoks Bow Mark Oilers
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 4:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276034
+URL:https://www.flohockey.tv/live/276034
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f0ca25967e96614326@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T013000Z
+DTEND:20270221T040000Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) @ SPKAC Ennis Kings
+LOCATION:Randy Rosen Rink\, Sherwood Park
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 7:3
+ 0 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276132
+URL:https://www.flohockey.tv/live/276132
+END:VEVENT
+BEGIN:VEVENT
+UID:b4400797d2dce92c5f87@puck-tracker
+DTSTAMP:20261024T135839Z
+DTSTART:20270221T214500Z
+DTEND:20270222T001500Z
+SUMMARY:Madden (Red Deer Optimist Chiefs) vs Calgary Royals
+LOCATION:Servus Arena\, Red Deer
+DESCRIPTION:Red Deer Optimist Chiefs – AEHL U18 AAA\nTime (Calgary): 3:4
+ 5 PM MT\nWatch: FloHockey (paid) https://www.flohockey.tv/live/276176
+URL:https://www.flohockey.tv/live/276176
+END:VEVENT
+END:VCALENDAR
